@@ -6,20 +6,6 @@
     "document_root": "mSp+7LCSabe9WpY/PRYfowS0K4rOiNhLqTgfsHk6K34=",
     "signing_root": "9KzjH672YDP+deY/NFX+YRWh6wsjgRy5swgzz+TzVh4=",
     "data_root": "UgNKPNTt0Zcm1AQ+Jy6CON83aWco5jSfQPXfaOL8iQM=",
-    "signatures": [
-      {
-        "entity_id": "gbKbjuOu",
-        "public_key": "/XsGTPvs7UO6qpbOoJBwemCkQpK4iXbIk1yMeuJuJR8=",
-        "signature": "HHCKouTctQ4ayy79MckF2vjkXmMFjXpm5aU4xZeQ/pePO/gRmQGRBBTdgCe3WnGZXeGP49gZ4zm8hz8/5DY6CA==",
-        "timestamp": "1970-01-01T00:00:29.102062434Z"
-      },
-      {
-        "entity_id": "gxZt2LW+",
-        "public_key": "7l8ovQ11+7aEbJlgC1tyK4aNjsVKMoD0FQGDG+HJAro=",
-        "signature": "EHt2QkVHJfPCmRDPfNm/Aw0N5Ay8787WITY6gvXDFs7n4EP0WWcasWuEt1mNZEiIIo+wDn63d2EAF+P5CkJfBA==",
-        "timestamp": "1970-01-01T00:00:31.726977047Z"
-      }
-    ],
     "coredocument_salts": {
       "document_identifier": "MCal79S4oJXg4pV9Gt9JZbSkigjfbkgsblVjW/RwBvI=",
       "current_identifier": "3O49IJe5UniTlpYv9FTn/1iKjdSBeEvm+TinjzkGy1Q=",
