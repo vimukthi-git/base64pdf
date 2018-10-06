@@ -1,0 +1,3 @@
+[submodule "homebrew-base64pdf"]
+	path = homebrew-base64pdf
+	url = git@github.com:vimukthi-git/homebrew-base64pdf.git
