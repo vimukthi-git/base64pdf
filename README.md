@@ -5,7 +5,9 @@ Utilities for converting base64 to pdf
 
 - install
     - With go `go get github.com/vimukthi-git/base64pdf` 
-    - with brew `brew install base64pdf`
+    - with brew,
+        - `brew tap vimukthi-git/base64pdf`
+        - `brew install base64pdf`
 
 - Help just run `base64pdf`
 
